@@ -1,0 +1,62 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Fair Share on Chores</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>06b2b0c8-b6de-4787-bd1b-28e7397af878</md:uuid>
+</metadata>
+  <content>
+    <section id="id-601128511128">
+      <title>Intent</title>
+      <para id="id11541547">In this activity, students write equations, express them in equivalent form, and graph them. Two important concepts are reinforced in the process: abstracting a problem to an algebraic equation and reading numeric information from a graph. Students convert a linear equation into Y= form, conducive to use on the graphing calculator. The activity sets the stage for students to make meaning of graphical solutions to systems of equations.</para>
+    </section>
+    <section id="id-0634177661597">
+      <title>Mathematics</title>
+      <para id="id12102812">Students examine possible solutions to a linear equation that involves two variables and explore how to express that equation by giving one variable in terms of the other. They also solve equations for one variable in terms of the other, based on reasoning in the problem context. Finally, they graph linear conditions on the calculator and use this tool to find solutions to an equation.</para>
+    </section>
+    <section id="id-18850316346">
+      <title>Progression</title>
+      <para id="id10669313">Students will work on the activity in groups and then share their results with the class. This activity sets the stage for lending graphical meaning to solving systems of equations. Students will revisit this situation in <emphasis>More Fair Share on Chores</emphasis>. </para>
+    </section>
+    <section id="id-172608345125">
+      <title>Approximate Time </title>
+      <para id="id12677353">30 minutes</para>
+    </section>
+    <section id="id-248368796468">
+      <title>Classroom Organization </title>
+      <para id="id12430314">Groups, followed by whole-class discussion</para>
+    </section>
+    <section id="id-561482615837">
+      <title>Doing the Activity</title>
+      <para id="id8753899">Read the introduction as a class. If you have a map, you might point to the split between the California and Oregon Trails.</para>
+      <para id="id10614940">You may want to have a volunteer offer a sample solution for Question 1 as a way to get the class started. You may need to prompt students to consider values other than whole numbers.</para>
+      <para id="id6296244">Circulate as groups work. In Question 2, students are asked to express a problem condition by using an equation. Although this may seem straightforward, translating words into symbols can be a complex process. If an entire group is stumped, remind them of the strategy of identifying and writing in words the arithmetic used. In this case, it is likely that students are performing an arithmetic operation like “multiply the girls’ hours by 2 and the boys’ hours by 3, add the results, and see if the total equals 10.” </para>
+      <para id="id12146722">If groups are stuck on Question 3 or 4, focus them on the arithmetic. <term>If each girl’s shift was four hours, how would you find the length of each boy’s shift? </term>Help them to translate their verbal reply into symbolic form—an equation like 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>B</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mtext>10</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>2G</m:mn></m:mrow><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{B= {  {"10"-2G}  over  {3} } } {}</m:annotation></m:semantics></m:math>.</para>
+    </section>
+    <section id="id-473798505074">
+      <title>Discussing and Debriefing the Activity</title>
+      <para id="id9179182">Begin the discussion by asking students to compile their possible answers to Question 1 into an In-Out table. Because students will be expressing the boys’ shift length, <emphasis>B,</emphasis> in terms of the girls’ shift length, <emphasis>G,</emphasis> the girls’ shift length should go in the <emphasis>In</emphasis> column. Have students plot these points.</para>
+      <para id="id12588764">If students had trouble with Question 2, ask them to use a number pair from the table and express in words how it gives the desired total of ten hours. They will probably reply by saying something to this effect: “Multiply the length of a girl’s shift (such as 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math>) by 2 and the length of a boy’s shift (such as 3) by 3 and add.” Essentially, they have given you the equation; they just need to restate it symbolically.</para>
+      <para id="id11671061">Help students to see that the purpose of Questions 3 and 4 is to express the equation in the form B= so they can graph it on the calculator. Ask, <term>Why might you want to express one variable in terms of the other? If you know the length of a girl’s shift, how would you use it to find the length of a boy’s shift?</term> Otherwise, they could stick with the equation 2<emphasis>G</emphasis> + 3<emphasis>B</emphasis> = 10, which is a more natural way to think about the problem.</para>
+      <para id="id11074582">Here are some observations that might arise in the discussion.</para>
+      <list list-type="bulleted" id="id12488710">
+        <item>The longer the shift for each girl, the shorter the shift for each boy.</item>
+        <item>There is a maximum possible shift length for each group.</item>
+        <item>The points that fit the equation lie on a straight line.</item>
+        <item>Any point that is on the graph fits the equation, and vice versa.</item>
+      </list>
+      <para id="id12503189">Post the equation from Question 4 so students can refer to it in the next activity.</para>
+    </section>
+    <section id="id-990211349025">
+      <title>Key Questions</title>
+      <para id="id11703724">
+        <term>If each girl’s shift was four hours, how would you find the length of each boy’s shift?</term>
+      </para>
+      <para id="id9897396">
+        <term>How can you check whether a number pair fits the condition?</term>
+      </para>
+      <para id="id11418226">
+        <term>Why might you want to express one variable in terms of the other?</term>
+      </para>
+    </section>
+  </content>
+</document>

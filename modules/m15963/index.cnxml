@@ -1,0 +1,123 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>POW 1: The Broken Eggs</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>06d22fb6-a60f-4a8c-a4f2-ba4bc172f4b7</md:uuid>
+</metadata>
+  <content>
+    <section id="id-394619898904">
+      <title>Intent</title>
+      <para id="id7437003">As the first POW, or Problem of the Week, <emphasis>The Broken Eggs</emphasis> is students’ first opportunity to work on a substantial problem over several days and communicate the results of their work in writing, using a format that will carry across the four years of the program. (See “Problems of the Week” in the Overview to the Interactive Mathematics Program.) [Link to the “Problems of the Week” portion of the Overview.]</para>
+    </section>
+    <section id="id-0966750094717">
+      <title>Mathematics </title>
+      <para id="id7437049">This POW is a version of a well-known problem in number theory. Here is a translation from a seventh-century text written by the Hindu mathematician Brahmagupta: <emphasis>An old woman goes to market, and a horse steps on her basket and crushes the eggs. The rider offers to pay for the damages and asks her how many eggs she had brought. She does not remember the exact number, but when she had taken them out two at a time, there was one egg left. The same happened when she picked them out three, four, five, and six at a time, but when she took them out seven at a time they came out even. What is the smallest number of eggs she could have had? </emphasis>A similar problem was posed by the Chinese scholar Sun Tsu Suan-Ching in the third century: <emphasis>There are certain things whose number is unknown. Repeatedly divided by 3, the remainder is 2; by 5 the remainder is 3; and by 7 the remainder is 2. What will be the number of things?</emphasis></para>
+      <para id="id7437085">In the activity, students search for numbers divisible by 7, but when divided by each of numbers 2 through 6 leave a remainder of 1. To find solutions to this problem, students must examine multiples of 7 and remainders when dividing by 2 through 6, and reason about patterns in these results. <emphasis>The Broken Eggs</emphasis> problem has many solutions, creating a complex task that will allow any high school student to begin to work on the question and all to pursue it as far as their interest (and time) allows (see <term>“About Solutions to Activities”</term> [link to About Solutions to Activities in the Overview] in the Overview to the Interactive Mathematics Program). </para>
+    </section>
+    <section id="id-837446729024">
+      <title>Progression</title>
+      <para id="id7437137">Students will work on this POW primarily outside of class. This unit is carefully designed to support student success, especially with this first long-term, problem-solving and writing project. The problem is posed early in <emphasis>The Importance of Patterns</emphasis> and revisited at several points over the next few class meetings. Three students will present their solutions to the class, and all will turn in their written work. </para>
+    </section>
+    <section id="id-422522483774">
+      <title>Approximate Time </title>
+      <para id="id7437168">5 minutes for introduction</para>
+      <para id="id7437172">30 minutes for groups to begin exploration</para>
+      <para id="id7437176">20 minutes for introducing POW write-ups</para>
+      <para id="id7437180">30 minutes for individuals (homework; do and write “Process”)</para>
+      <para id="id7437187">5 minutes for small-group discussion</para>
+      <para id="id7437191">30 minutes for individuals (homework; complete “Process”)</para>
+      <para id="id7437197">15 minutes for discussion findings and of next phases of write-up</para>
+      <para id="id7437202">15 minutes for discussion of presentation expectations</para>
+      <para id="id7437208">30 minutes for individuals (homework; complete POW write-up)</para>
+      <para id="id7437213">15 minutes for presentations</para>
+    </section>
+    <section id="id-0288405600908">
+      <title>Classroom Organization</title>
+      <para id="id7437225">Individuals and small groups, concluding with whole-class presentations and class discussion</para>
+    </section>
+    <section id="id-00337500105567">
+      <title>Materials</title>
+      <para id="id7437239">Presenters will need presentation materials, such as transparencies and pens, a few days prior to the due date.</para>
+    </section>
+    <section id="id-453141523168">
+      <title>Doing the Activity</title>
+      <para id="id7437253">Please be thoughtful about the extended timeframe over which the activity occurs. The more support you offer students in this, their first long-term and significant problem-solving and writing activity, the more successful they will be in the subsequent writing activities they will encounter.</para>
+      <para id="id7437262">The commentary below divvies the focus of this supportive work into several “phases.” This is not meant to indicate sequential days; depending on your scheduling situation, consider these the segments necessary to support student work, however you parse it into your daily plans.</para>
+    </section>
+    <section id="id-200738632818">
+      <title>Introduce the Problem</title>
+      <para id="id7437284">You might begin this activity by having one or more volunteers read it aloud, through the section “Your Task.” Tell students that they will be working on this problem in groups, sharing ideas and insights. They should keep notes on how they and their groups work on the problem, as they will be discussing these things in their final write-ups.</para>
+    </section>
+    <section id="id-797695947945">
+      <title>Begin Exploring</title>
+      <para id="id7437308">Have students work on the problem in groups. Although some students might find a solution during this initial work, this is not an expectation for the first day.</para>
+      <para id="id7437314">If groups are stuck, ask what they have tried. It is important that students have time to reach conclusions at their own pace. To clarify whether they understand the problem, you might ask why 49 is not a correct answer. You might also suggest they consider this simplified problem: <term>Suppose the farmer remembered that only when she put the eggs in groups of either two or five, there was one egg left over. What would be some possibilities for the number of eggs in that situation?</term></para>
+      <para id="id7437334">If any groups find the answer 301 today, you can urge them to look for other solutions. If groups need further challenges, they can look for a general solution or a description of how to find other solutions, and then for an explanation of how they know their general solution includes all possibilities.</para>
+    </section>
+    <section id="id-542517111536">
+      <title>The Standard POW Write-Up</title>
+      <para id="id7437351">Have students read The Standard POW Write-up. Most POWs will have a “Write-up” section that uses the basic components listed in The Standard POW Write-up The write-up instructions will often simply refer to these components by name, giving additional details only when the write-up differs from the basic model provided here. You may want to post the five write-up components on the wall.</para>
+      <para id="id7437383">Have students work individually for a while to create problem statements for the POW. Then have them share their ideas in their groups, and have each group use these ideas to create the best problem statement possible.</para>
+      <para id="id7437390">Ask one or two groups to share their problem statements with the class. In the discussion, bring out that the problem statement should not simply repeat the problem as originally stated, but should try to focus on the essentials. You might work with students to distinguish between the “story” aspects of the problem and its mathematical core. With this first POW, students might include both aspects in their problem statements, but over the course of the curriculum, they should gradually move toward an emphasis on the mathematical elements of the POWs.</para>
+      <para id="id7437413">You might remind students that taking notes as they work will help with the “Process” part of their write-ups. Encourage them to collaborate with classmates. You might mention explicitly that you do not consider it cheating to work with someone else on a homework assignment or POW, as long as students acknowledge that collaboration in their write-ups. On the other hand, students should not simply copy each other’s work or allow others to copy from theirs. You might also offer advice about how to help each other, such as by giving a hint or asking a leading question. Point out that if they give a friend the answer, they deprive the friend of much of the learning experience.</para>
+    </section>
+    <section id="id-952757754812">
+      <title>Begin Writing the “Process”</title>
+      <para id="id7437442">Two or three days after assigning this first POW, assign for homework simply working on the POW for 20 to 30 minutes. Tell students they should come to class tomorrow with a portion of their “Process” written. If they are using word-processing software for their write-ups, they should bring a printout of this draft.</para>
+      <para id="id7437457">Encourage students to keep notes about ideas they have and things they try and to pause occasionally to add to the “Process” portion of their write-ups. A structure such as work 7 minutes, write for 3 minutes might help students achieve this goal.</para>
+      <para id="id7437470">When students return to class, encourage them to share ideas in their groups. Then explicitly instruct them to share what they have done in writing the “Process.” It can be valuable to have students pass their write-ups around their groups to see how others are recording their solution methods.</para>
+    </section>
+    <section id="id-426126509305">
+      <title>Finish Writing the “Process”</title>
+      <para id="id7437493">On the very next day (the day the homework above is due), have students spend 20 to 30 minutes working on the problem and completing the write-up of the “Process.” Again, they should bring a draft to class.</para>
+      <para id="id7437504">In class, again encourage groups to share findings from their investigations the previous evening, including reading one another’s “Process,” perhaps in pairs this time.</para>
+      <para id="id7437518">Follow this with a class discussion. Ask students to describe what they think is in the “Process” section, as they have written it over the past few days. Return to the <emphasis>The Standard POW Write-Up</emphasis> reference page<emphasis>,</emphasis> and ask students to compare their impressions with the description of the “Process” section here. </para>
+      <para id="id7437552">Remind students that they have three sections left to write: “Solution,” “Extensions,” and “Self-assessment.”</para>
+    </section>
+    <section id="id-274825883352">
+      <title>Completion and Presentation Preparation</title>
+      <para id="id7437568">Use the contexts of <emphasis>Marcella’s Bagels</emphasis> and <emphasis>Extended Bagels</emphasis> to remind students of the write-up structures and expectations. </para>
+      <para id="id7437595">As this will be the first POW presentation, ask for three volunteers to present their work. You may find it easier to get volunteers if you mention that this first group of presenters will get some extra guidance. (For future POWs, either select students at random, choosing from among those who have not yet done POW presentations, until everyone has had a turn, or ask for volunteers, again explaining the expectation that everyone will present once before cycling through again.)</para>
+      <para id="id7437607">Discuss with the class what will be expected of presenters and of the audience. Emphasize that presentations are to be discussions about <emphasis>ideas</emphasis>. It is important that presenters prepare to share what they learned about the problem and not feel pressured to present “the” answer. </para>
+      <para id="id7437631">Audience members should listen to discover what presenters have figured out, how they approached the problem, and the reasoning behind their conclusions. The audience will be expected to ask clarifying questions, such as “I don’t understand how you arrived at this conclusion; I seem to get ___” or “That idea seems to contradict ___.”</para>
+      <para id="id7437646">Presenters are to use transparencies to <emphasis>help with</emphasis> their presentations, rather than to <emphasis>be</emphasis> their presentations. In other words, they will not present only what is on the transparencies, but should plan to explain the problem, using the transparencies to save the trouble of writing as they talk. They can include diagrams, numeric calculations, and whatever else might be helpful.</para>
+      <para id="id7437676">Also, presenters may need reminding to plan to talk about <emphasis>all </emphasis>parts of the write-up, not only about their solutions. (In later POW presentations, students may find certain sections need less attention, especially given only 5 minutes to present.) Finally, encourage them to make any writing on transparencies large enough to be readable.</para>
+      <para id="id7437698">You might meet briefly with volunteers to address any questions or concerns they have and to give them transparencies and pens for preparing their presentations. </para>
+      <para id="id7437705">Once presenters are selected and expectations for the presentations have been communicated, tell everyone that the homework is to finish the write-up.</para>
+    </section>
+    <section id="id-302656615003">
+      <title>Discussing and Debriefing the Activity</title>
+      <section id="id-529862626026">
+        <title>Presentations</title>
+        <para id="id7437727">Because making presentations is very difficult for some students, these first POW presenters might have a tough time. Because of their willingness to volunteer, they deserve special consideration from the audience and assistance from the teacher.</para>
+        <para id="id7437735">Briefly remind the audience of these expectations (which you may want to post):</para>
+        <list list-type="bulleted" id="id7437741">
+          <item>Acknowledge the effort and courage of the presenter, regardless of the quality of the presentation.</item>
+          <item>Treat each other with respect and listen attentively.</item>
+          <item>Listen for what the presenter learned, ask questions when you don’t understand, and challenge things you think are incorrect. Being respectful does not mean being passive. It is not disrespectful to question, add to, or challenge each other’s work if it is done in the proper spirit.</item>
+        </list>
+        <para id="id7437772"><emphasis>Multiple routes to the solution: </emphasis>Encourage students to ask questions during the presentations. After all the presentations are over, ask if anyone has anything else to add. Be sure students realize that this invitation includes presenting a different method for finding or explaining an answer—they do not have to have a new or a different answer.</para>
+        <para id="id7437794"><emphasis>More than one solution: </emphasis>If the presentations did not deal with the issue of the POW having more than one answer, bring that up now. Many students may have stopped exploring when they found that 301 fits all the given conditions. An important mathematical question to ask is, <term>Is this problem one of those that has more than one answer?</term> This problem, like many others, does have more than one answer.</para>
+        <para id="id7437821">It is not necessary at this time that students find the general expression for all possible solutions, but they should recognize the possibility of multiple solutions. The supplemental activity <emphasis>More Broken Eggs</emphasis> asks students for the general solution.</para>
+      </section>
+    </section>
+    <section id="id-89684147829">
+      <title>Key Questions </title>
+      <para id="id7437850">
+        <term>How do you know that (301, for example) is a solution? Is not a solution?</term>
+      </para>
+      <para id="id7437859">
+        <term>Do you suspect there are other solutions? Why?</term>
+      </para>
+    </section>
+    <section id="id-61690341673">
+      <title>Supplemental Activity</title>
+      <para id="id7437875"><emphasis>More Broken Eggs</emphasis> (extension) expands on <emphasis>The Broken Eggs</emphasis>, in which students found a possible number of eggs the farmer might have had when her cart turned over. The task now is to look for other solutions, to find and describe a pattern for obtaining all the solutions, and to explain why all the solutions fit that pattern.</para>
+    </section>
+    <section id="id-225516714768">
+      <title>Samples of Student Work</title>
+      <para id="id7437923">Sample 1: Page 1 [Link to Broken Eggs Student 1a] Page 2 [Link to Broken Eggs Student 2a]</para>
+      <para id="id7437953">Sample 2: Page 1 [Link to Broken Eggs Student 2a] Page 2 [Link to Broken Eggs Student 2b] Page 3 [Link to Broken Eggs Student 2c]</para>
+      <para id="id7437987">Sample 3: Page 1 [Link to Broken Eggs Student 3a] Page 2 [Link to Broken Eggs Student 3b]</para>
+      <para id="id7438017">Sample 4: Page 1 [Link to Broken Eggs Student 4]</para>
+    </section>
+  </content>
+</document>

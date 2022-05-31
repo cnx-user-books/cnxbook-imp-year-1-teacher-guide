@@ -1,0 +1,156 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Pulling Out Rules</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>583fe773-b7d8-4b71-b1ff-a818425a14ee</md:uuid>
+</metadata>
+  <content>
+    <section id="id-824506560655">
+      <title>Intent</title>
+      <para id="id11372255">This activity gives students more opportunities to find and express rules for In-Out tables, both in words and symbolically, and to use an In-Out table as a problem-solving tool. </para>
+    </section>
+    <section id="id-168006324585">
+      <title>Mathematics</title>
+      <list id="id11184424" list-type="bulleted"><item>This activity raises the several mathematical issues.</item>
+        <item>Finding rules for In-Out tables. </item>
+        <item>Developing symbol sense. For example, “The <emphasis>Out</emphasis> is 2 times the <emphasis>In</emphasis>, then add 3,” Out = 2 In + 3, Out = 2 <emphasis>x</emphasis> + 3, and <emphasis>y</emphasis> = 2<emphasis>x</emphasis> +3 are equivalent and increasingly abstract ways to use symbols to summarize the rule for Question 1a.</item>
+        <item>Confronting the idea that the number of data points in a table affects the number of rules that will explain all the data.</item>
+        <item>Using a function as a mathematical model of a quantitative situation, and then using the model to solve a problem related to that situation.</item>
+        <item>Introducing the terms <term><link document="m15620">variable</link></term>, <term><link document="m15620">algebraic expression</link></term>, <term><link document="m15620">coefficient</link></term>, and <term><link document="m15620">constant term</link></term>.</item>
+      </list>
+    </section>
+    <section id="id-341380698334">
+      <title>Progression</title>
+      <para id="id10618701">Students are first asked to find rules for In-Out tables that each contain four pairs of numbers. Then they are asked to generate many possible rules that fit tables with only one or two pairs of numbers. Finally, they are presented with a problem for which an In-Out table is a helpful solution tool. </para>
+    </section>
+    <section id="id-131837016697">
+      <title>Approximate Time </title>
+      <para id="id11057929">25 minutes for activity</para>
+      <para id="id11057933">20 minutes for discussion</para>
+    </section>
+    <section id="id-648027553113">
+      <title>Classroom Organization</title>
+      <para id="id11536600">Individuals, then groups, followed by whole-class discussion</para>
+    </section>
+    <section id="id-0390571909531">
+      <title>Doing the Activity</title>
+      <para id="id11535429">Tell students that in this activity they will look for rules for more In-Out tables. </para>
+    </section>
+    <section id="id-255042774814">
+      <title>Discussing and Debriefing the Activity </title>
+      <para id="id11096810">Students should begin by asking questions of and comparing results with their group members. During this time, ask for some groups to prepare presentations for one of the tables.</para>
+      <para id="id11519847">During presentations, encourage students to talk about the strategies they used to find their rules. Ensure that rules are presented as complete sentences, and record these sentences on the board.</para>
+      <para id="id10868443">Now that students have worked with a variety of In-Out tables, it may be valuable to let them share techniques that they have found for finding rules. As they do, help them to clarify their own thinking and encourage them to challenge each other to explain their ideas clearly.</para>
+      <para id="id10607404">Make sure a variety of rules for each table are shared. In Question 2, with only one data point to explain, students can find an infinite number of possible rules. If an In-Out table contains two points, as in Question 3, there are still infinitely many possible rules, but there is now only one linear rule that will work. </para>
+      <para id="id7100984">Question 4a asks students to create an In-Out table to analyze a real-life situation. </para>
+      <table id="id11538603" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Number of volunteers</entry>
+              <entry>Number of bags of weeds pulled</entry>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry>2</entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>5</entry>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>8</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id11558292">Some students will answer Question 4b by extending the table using the pattern “Add 3 bags for each additional person” until they reach an output that is large enough. Some might find and employ a rule that fits the table Number of bags = 3 • (Number of volunteers) + 1.</para>
+      <para id="id11097577">Using either approach, students will discover that 30 does not appear as an <emphasis>Out</emphasis> if they stick to whole numbers for the <emphasis>In</emphasis>. <term>So what should the supervisor do?</term> To address this question, students must make sense of their work so far in light of the problem context. Their ideas could include these.</para>
+      <para id="id10618822"><emphasis>•</emphasis>The supervisor should “play it safe” by getting 11 volunteers, taking into account that the job might actually involve more than 30 bags of weeds and that some volunteers might work faster than others.</para>
+      <para id="id11521067"><emphasis>•</emphasis>The supervisor should get 10 volunteers and either make them work extra hard or join in the work as needed to finish the job.</para>
+      <para id="id11592088">There is no right answer; each of these suggestions (and other possible ideas) makes sense in this context.</para>
+      <para id="id9088687">Begin moving students from rules expressed in words to rules expressed symbolically. The discussion may be richer if this is a two-operation rule, such as “Get the Out by tripling the In and then adding 1.”</para>
+      <para id="id11560004">Have students find the Out that goes with each of several In values for their rules. For the rule just stated, the table might look something like this.</para>
+      <table id="id11057943" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>In</entry>
+              <entry>Out</entry>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>10</entry>
+            </row>
+            <row>
+              <entry>6</entry>
+              <entry>19</entry>
+            </row>
+            <row>
+              <entry>5</entry>
+              <entry>16</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id11508442">Help students record the rules as <term><link document="m15620">algebraic expressions</link></term>. Students already know symbols for the numbers and operations involved, and most will have used symbols to replace unknown quantities. Remind them how much they know already about writing algebraic expressions.</para>
+      <para id="id10539925">With a few volunteered responses, students should arrive at an algebraic expression that all agree finishes the sentence. Record the expression in the In-Out table. </para>
+      <table id="id11520046" summary="">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>In</entry>
+                <entry>Out</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>4</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>10</entry>
+              </row>
+              <row>
+                <entry>6</entry>
+                <entry>19</entry>
+              </row>
+              <row>
+                <entry>5</entry>
+                <entry>16</entry>
+              </row>
+              <row>
+                <entry>t</entry>
+                <entry>3∑<emphasis>t</emphasis> + 1</entry>
+              </row>
+            </tbody>
+          
+</tgroup>
+</table>
+      <para id="id10818236">Below are a few additional ideas about algebraic notation and terminology that you can either elicit from students or simply present, using the context of the table just discussed.</para>
+      <list id="id10539322" list-type="bulleted"><item>It is conventional to abbreviate 3∑<emphasis>t</emphasis> + 1 as 3<emphasis>t</emphasis> + 1. </item>
+          <item>It is acceptable to write <emphasis>t</emphasis> ∑3, unusual to write <emphasis>t</emphasis> 3, and most common to write 3<emphasis>t</emphasis>. Emphasize that omitting the multiplication sign is simply a convention of notation—that is, an agreement among mathematicians to write things a certain way. There is nothing inherently wrong about using a multiplication sign between a number and a variable or about placing the variable in front of the coefficient—it’s just not usually done that way.</item>
+        <item>The letter <emphasis>t</emphasis> is a <term><link document="m15620">variable</link></term>. Rather than formally defining the term, you might just say that a variable is a letter that is being used to represent a general case. </item>
+        <item>3<emphasis>t</emphasis> + 1 is an <term><link document="m15620">algebraic expression</link></term>. A number used to multiply a variable, such as 3 in the expression 3<emphasis>t</emphasis> + 1, is a <term><link document="m15620">coefficient</link></term>.</item>
+        <item>A number by itself that is added or subtracted in such an expression, such as 1 in the expression 3<emphasis>t</emphasis> + 1, is a <term><link document="m15620">constant term</link></term>. </item>
+      </list>
+      <para id="id11520089">After introducing this terminology and notation, you might ask students to express some of the other rules they found for the tables in Questions 2 and 3 in algebraic form. Using a variety of letters for the inputs emphasizes that the particular letter chosen has no significance.</para>
+    </section>
+    <section id="id-680457573018">
+      <title>Key Questions</title>
+      <para id="id11536535">
+        <term>What rules have we found for this table? Are these rules really different? That is, would they lead to different tables? Or are they different ways of stating the same rule?</term>
+      </para>
+      <para id="id11536545">
+        <term>What should the supervisor do?</term>
+      </para>
+    </section>
+  </content>
+</document>

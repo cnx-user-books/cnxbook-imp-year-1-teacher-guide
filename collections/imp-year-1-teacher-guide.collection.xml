@@ -1,0 +1,302 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10537</md:content-id>
+    <md:title>IMP Year 1 Teacher Guide</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>a0b046ae-5394-45b2-8d6d-f22f63ba6c79</md:uuid>
+<md:slug>imp-year-1-teacher-guide</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Year 1 Overview</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Patterns</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Unit Overview</md:title>
+          <col:content>
+            <col:module document="m16365"/>
+            <col:module document="m16385"/>
+            <col:module document="m16392"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Activity Notes</md:title>
+          <col:content>
+            <col:subcollection>
+              <md:title>The Importance of Patterns</md:title>
+              <col:content>
+                <col:module document="m15623"/>
+                <col:module document="m15624"/>
+                <col:module document="m15962"/>
+                <col:module document="m15963"/>
+                <col:module document="m15622"/>
+                <col:module document="m15621"/>
+                <col:module document="m15960"/>
+                <col:module document="m15959"/>
+                <col:module document="m15964"/>
+                <col:module document="m15961"/>
+                <col:module document="m15965"/>
+              </col:content>
+            </col:subcollection>
+            <col:subcollection>
+              <md:title>Communicating About Mathematics</md:title>
+              <col:content>
+                <col:module document="m15980"/>
+                <col:module document="m16100"/>
+                <col:module document="m16066"/>
+                <col:module document="m16119"/>
+                <col:module document="m16088"/>
+                <col:module document="m16114"/>
+                <col:module document="m16086"/>
+                <col:module document="m16109"/>
+                <col:module document="m16121"/>
+              </col:content>
+            </col:subcollection>
+            <col:subcollection>
+              <md:title>Investigations</md:title>
+              <col:content>
+                <col:module document="m16366"/>
+                <col:module document="m16078"/>
+                <col:module document="m16071"/>
+                <col:module document="m16092"/>
+                <col:module document="m16113"/>
+                <col:module document="m16104"/>
+                <col:module document="m16080"/>
+                <col:module document="m16107"/>
+                <col:module document="m16072"/>
+              </col:content>
+            </col:subcollection>
+            <col:subcollection>
+              <md:title>Putting It Together</md:title>
+              <col:content>
+                <col:module document="m16387"/>
+                <col:module document="m16112"/>
+                <col:module document="m16073"/>
+                <col:module document="m16082"/>
+                <col:module document="m16115"/>
+                <col:module document="m16075"/>
+                <col:module document="m16106"/>
+              </col:content>
+            </col:subcollection>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Game of Pig</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Overland Trail</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Unit Overview</md:title>
+          <col:content>
+            <col:module document="m16356"/>
+            <col:module document="m16455"/>
+            <col:module document="m16533"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Activity Notes</md:title>
+          <col:content>
+            <col:subcollection>
+              <md:title>A Journey Back in Time</md:title>
+              <col:content>
+                <col:module document="m16450"/>
+                <col:module document="m16341"/>
+                <col:module document="m16342"/>
+                <col:module document="m16344"/>
+                <col:module document="m16345"/>
+                <col:module document="m16346"/>
+                <col:module document="m16347"/>
+                <col:module document="m16349"/>
+                <col:module document="m16355"/>
+                <col:module document="m16350"/>
+                <col:module document="m16351"/>
+                <col:module document="m16354"/>
+              </col:content>
+            </col:subcollection>
+            <col:subcollection>
+              <md:title>Setting Out with Variables</md:title>
+              <col:content>
+                <col:module document="m16452"/>
+                <col:module document="m16357"/>
+                <col:module document="m16361"/>
+                <col:module document="m16362"/>
+                <col:module document="m16358"/>
+                <col:module document="m16364"/>
+                <col:module document="m16360"/>
+                <col:module document="m16359"/>
+              </col:content>
+            </col:subcollection>
+            <col:subcollection>
+              <md:title>The Graph Tells a Story</md:title>
+              <col:content>
+                <col:module document="m16453"/>
+                <col:module document="m16395"/>
+                <col:module document="m16367"/>
+                <col:module document="m16396"/>
+                <col:module document="m16394"/>
+                <col:module document="m16393"/>
+                <col:module document="m16391"/>
+                <col:module document="m16389"/>
+                <col:module document="m16388"/>
+              </col:content>
+            </col:subcollection>
+            <col:subcollection>
+              <md:title>Traveling at a Constant Rate</md:title>
+              <col:content>
+                <col:module document="m16422"/>
+                <col:module document="m16368"/>
+                <col:module document="m16370"/>
+                <col:module document="m16371"/>
+                <col:module document="m16373"/>
+                <col:module document="m16375"/>
+                <col:module document="m16376"/>
+                <col:module document="m16377"/>
+                <col:module document="m16378"/>
+                <col:module document="m16379"/>
+                <col:module document="m16386"/>
+                <col:module document="m16384"/>
+                <col:module document="m16381"/>
+                <col:module document="m16383"/>
+                <col:module document="m16369"/>
+                <col:module document="m16380"/>
+                <col:module document="m16382"/>
+              </col:content>
+            </col:subcollection>
+            <col:subcollection>
+              <md:title>Reaching the Unknown</md:title>
+              <col:content>
+                <col:module document="m16421"/>
+                <col:module document="m16404"/>
+                <col:module document="m16403"/>
+                <col:module document="m16402"/>
+                <col:module document="m16401"/>
+                <col:module document="m16400"/>
+                <col:module document="m16399"/>
+                <col:module document="m16398"/>
+                <col:module document="m16397"/>
+                <col:module document="m16413"/>
+                <col:module document="m16410"/>
+                <col:module document="m16405"/>
+                <col:module document="m16409"/>
+                <col:module document="m16406"/>
+                <col:module document="m16408"/>
+                <col:module document="m16407"/>
+                <col:module document="m16411"/>
+              </col:content>
+            </col:subcollection>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Pit and the Pendulum</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Shadows</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Unit Overview</md:title>
+          <col:content>
+            <col:module document="m16532"/>
+            <col:module document="m16456"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Activity Notes</md:title>
+          <col:content>
+            <col:subcollection>
+              <md:title>What is a Shadow?</md:title>
+              <col:content>
+                <col:module document="m16440"/>
+                <col:module document="m16423"/>
+                <col:module document="m16425"/>
+                <col:module document="m16439"/>
+                <col:module document="m16424"/>
+                <col:module document="m16429"/>
+                <col:module document="m16437"/>
+                <col:module document="m16432"/>
+                <col:module document="m16436"/>
+                <col:module document="m16431"/>
+              </col:content>
+            </col:subcollection>
+            <col:subcollection>
+              <md:title>The Shape of It</md:title>
+              <col:content>
+                <col:module document="m16465"/>
+                <col:module document="m16441"/>
+                <col:module document="m16438"/>
+                <col:module document="m16457"/>
+                <col:module document="m16458"/>
+                <col:module document="m16459"/>
+                <col:module document="m16460"/>
+                <col:module document="m16461"/>
+                <col:module document="m16463"/>
+                <col:module document="m16462"/>
+                <col:module document="m16464"/>
+              </col:content>
+            </col:subcollection>
+            <col:subcollection>
+              <md:title>Triangles Galore</md:title>
+              <col:content>
+                <col:module document="m16495"/>
+                <col:module document="m16480"/>
+                <col:module document="m16481"/>
+                <col:module document="m16482"/>
+                <col:module document="m16483"/>
+                <col:module document="m16484"/>
+                <col:module document="m16485"/>
+                <col:module document="m16486"/>
+                <col:module document="m16487"/>
+                <col:module document="m16488"/>
+                <col:module document="m16489"/>
+                <col:module document="m16490"/>
+                <col:module document="m16491"/>
+                <col:module document="m16492"/>
+                <col:module document="m16494"/>
+              </col:content>
+            </col:subcollection>
+            <col:subcollection>
+              <md:title>The Lamp Shadow</md:title>
+              <col:content>
+                <col:module document="m16517"/>
+                <col:module document="m16508"/>
+                <col:module document="m16505"/>
+                <col:module document="m16507"/>
+                <col:module document="m16509"/>
+                <col:module document="m16506"/>
+                <col:module document="m16510"/>
+                <col:module document="m16513"/>
+                <col:module document="m16511"/>
+              </col:content>
+            </col:subcollection>
+            <col:subcollection>
+              <md:title>The Sun Shadow</md:title>
+              <col:content>
+                <col:module document="m16531"/>
+                <col:module document="m16518"/>
+                <col:module document="m16519"/>
+                <col:module document="m16520"/>
+                <col:module document="m16521"/>
+                <col:module document="m16523"/>
+                <col:module document="m16524"/>
+                <col:module document="m16525"/>
+                <col:module document="m16526"/>
+                <col:module document="m16527"/>
+                <col:module document="m16528"/>
+              </col:content>
+            </col:subcollection>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

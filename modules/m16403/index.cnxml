@@ -1,0 +1,67 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Fair Share for Hired Hands</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>75925eb6-bd42-4ee2-8956-925bc937e038</md:uuid>
+</metadata>
+  <content>
+    <section id="id-193109101838">
+      <title>Intent</title>
+      <para id="id3962784">Students examine possible solutions to a linear equation in two variables and explore how to express that equation as one variable in terms of the other. The activity focuses on the connection between an equation and its graph to further set the stage for considering the graphical meaning of the solution to a system of equations.</para>
+    </section>
+    <section id="id-560850082591">
+      <title>Mathematics</title>
+      <para id="id11093215">Students continue work with all four representations of linear functions. Most importantly, they write a rule in Y= form and consider the meaning of specific points on the line.</para>
+    </section>
+    <section id="id-485085700636">
+      <title>Progression</title>
+      <para id="id8433303">Students use a context to derive a set of ordered pair solutions, plot these pairs, and determine an equation for the linear relationship. Again, students are asked to convert the equation into Y= form. Finally, a class discussion emphasizes the meaning of the points along the graph of the line. This sets the stage for the next activities, in which students consider the meaning of a point of intersection.</para>
+    </section>
+    <section id="id-748514944924">
+      <title>Approximate Time </title>
+      <para id="id11918991">5 minutes for introduction</para>
+      <para id="id10626974">20 minutes for activity (at home or in class)</para><para id="element-206">15 minutes for discussion</para>
+    </section>
+    
+    <section id="id-234203403696">
+      <title>Classroom Organization</title>
+      <para id="id11640143">Individuals, followed by whole-class discussion</para>
+    </section>
+    <section id="id-457763679218">
+      <title>Doing the Activity</title>
+      <para id="id10388626">Let students know that this activity is similar to the previous activity, <emphasis>Fair Share on Chores.</emphasis> Although students have graphing calculators available, suggest they initially draw the graph on paper.</para>
+    </section>
+    <section id="id-978822359905">
+      <title>Discussing and Debriefing the Activity</title>
+      <para id="id11888380">Have students compare ideas and answers in their groups. You might have several students put their solutions for Question 1 and 2 on the board. After a few minutes, gather the class and have some discussion of the responses.</para>
+      <para id="id9947686">Next, turn to Question 4, eliciting verbal descriptions of how to get <emphasis>Y</emphasis> from <emphasis>X</emphasis>, and comparing the different versions.</para>
+      <para id="id10488704">Discuss the equations students wrote for Question 5, which probably look much like 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>Y</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mtext>20</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>3X</m:mn></m:mrow><m:mn>4</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Y= {  {"20"-3X}  over  {4} } } {}</m:annotation></m:semantics></m:math>. As a class, test some of the points students found from their graphs in Question 3.</para>
+      <para id="id11489620">At this point you can ask the class, <term>What is the relationship between fitting the equation and being on the graph?</term> Students should come to this conclusion:</para>
+      <para id="id12370540">
+        <emphasis>Every point on the graph represents a solution to the equation, and every solution to the equation corresponds to a point on the graph.</emphasis>
+      </para>
+      <para id="id12574587">Essentially, this is the definition of a graph.</para>
+      <para id="id10754495">Then ask, <term>Is every solution to the problem on the graph? Does every point on the graph represent a solution to the problem?</term></para>
+      <para id="id12163522">The discussion should bring out the fact that a point on the graph, which represents a solution to the equation, does not necessarily represent a solution to the problem. For example, the point represented by <emphasis>X</emphasis> = 4 and <emphasis>Y</emphasis> = 2 is on the graph and fits the equation, but is not a solution to the problem, because the experienced workers should have a higher pay rate than the inexperienced workers.</para>
+      <para id="id10678557">This tells us that even though the graph represents the equation, the equation itself does not precisely represent the problem. The graph for the actual problem is only a portion of the line. In other problems, only points with whole-number coordinates will fit the problem.</para>
+    </section>
+    <section id="id-837630261903">
+      <title>Key Questions</title>
+      <para id="id11656701">
+        <term>How did you get </term>
+        <emphasis>Y</emphasis>
+        <term> from </term>
+        <emphasis>X</emphasis>
+        <term>?</term>
+      </para>
+      <para id="id10745315">
+        <term>What is the relationship between fitting the equation and being on the graph?</term>
+      </para>
+      <para id="id11815716">
+        <term>Is every solution to the problem on the graph?</term>
+      </para>
+      <para id="id11047827">
+        <term>Does every point on the graph represent a solution to the problem?</term>
+      </para>
+    </section>
+  </content>
+</document>

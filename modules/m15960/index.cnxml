@@ -1,0 +1,176 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Inside Out</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>9dbe1bbe-e1a4-453e-8c6e-0226c5b9db2b</md:uuid>
+</metadata>
+  <content>
+    <section id="id-657787442403">
+      <title>Intent </title>
+      <para id="id11094211">This activity introduces students to a powerful representation of functions, In-Out tables, that will be used repeatedly throughout the IMP curriculum. The In-Out machine metaphor is used to introduce In-Out tables and the terms <emphasis>input</emphasis> and <emphasis>output</emphasis>. In their exploration, students experiment, make conjectures, and work toward getting clear verbal statements of the rules.</para>
+    </section>
+    <section id="id-946920444764">
+      <title>Mathematics</title>
+      <para id="id10067598">A powerful way to think about a <term><link document="m15620">function</link></term> is as a machine. The thing put in is called the <term><link document="m15620">input</link></term>  (the <emphasis>In</emphasis>, for short); the thing that comes out is called the <term><link document="m15620">output</link></term> (the <emphasis>Out</emphasis>). An <term><link document="m15620">In-Out table</link></term> is one <emphasis>representation</emphasis> of a function. Other representations include graphs and symbolic rules. (Students will study these representations in <emphasis>The Overland Trail</emphasis>.) We often use the word <emphasis>function</emphasis> in such phrases as “the <emphasis>Out</emphasis> is a function of the <emphasis>In,</emphasis>” which means that the <emphasis>Out </emphasis>value depends on, or is determined by, the <emphasis>In</emphasis> value. </para>
+    </section>
+    <section id="id-719474579428">
+      <title>Progression</title>
+      <para id="id4361179">This activity works well as homework. Students are introduced to the idea of an In-Out machine and learn to keep track of what it can do by using an In-Out table. They attempt to decode some In-Out tables and then create two of their own. </para>
+    </section>
+    <section id="id-738901806941">
+      <title>Approximate Time </title>
+      <para id="id9698547">15 minutes for introduction</para>
+      <para id="id9698551">20 minutes for activity (at home or in class)</para>
+      <para id="id9917579">45 minutes for discussion </para>
+    </section>
+    <section id="id-385983817656">
+      <title>Classroom Organization</title>
+      <para id="id9013311">Whole-class introduction, followed by individuals, then small groups, concluding with whole-class discussion</para>
+    </section>
+    <section id="id-786921887033">
+      <title>Doing the Activity</title>
+      <para id="id10531966">Introduce the idea of an <term><link document="m15620">In-Out machine</link></term>. Many students may have been exposed to this method of representing functions, but others may not have been. Explain that something, often a number, is put into the machine. The machine does something to that object, and something comes out. The thing put in is called the <emphasis>input</emphasis> (the <emphasis>In</emphasis>, for short); the thing that comes out is the <emphasis>output</emphasis> (the <emphasis>Out</emphasis>). With your first example or two, you might show inputs as if they were actually being put into a machine and outputs as if they were coming out of the machine.</para>
+      <para id="id7333878">A nice way to start is to have students try to figure out what the machine is doing without any initial information. For example, you can ask, <term>What happens if I put in the number 5? </term>Have students make guesses, though they will probably recognize that they can’t possibly know for sure. Offer clues, such as “too high” or “too low,” until someone gets the answer you have in mind. You may want to have several options in mind at first so that it takes more than one guess. </para>
+      <para id="id10144667">Then ask for another number to use as the input and have students guess the corresponding output. Continue in this way, as students gradually get additional information about your mystery machine. At some point, ask, <term>How might you keep a record of the information?</term></para>
+      <para id="id11331578">
+        <emphasis/>
+      </para>
+      <para id="id10619737">When most students seem to have figured out the rule, demonstrate how to organize the information using an In-Out table. For example, you might have a table like this for an “add 4 machine.”</para>
+      <table id="id6580634" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>In</entry>
+              <entry>Out</entry>
+            </row>
+            <row>
+              <entry>5</entry>
+              <entry>9</entry>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>7</entry>
+            </row>
+            <row>
+              <entry>0</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>9</entry>
+              <entry>?</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id8231567"><term>Can you figure out a rule for this table?</term><emphasis/> Ask students to tell you a rule in words. Work toward getting them to express rules completely, such as “The <emphasis>Out</emphasis> is 4 more than the <emphasis>In</emphasis>” or “You get the <emphasis>Out</emphasis> by adding 4 to the <emphasis>In</emphasis>” rather than just “Add 4.” Write the rule next to the table.</para>
+      <para id="id3907704">Offer another example of an In-Out machine, and develop another table of student guesses. Name the <term><link document="m15620">input</link></term> and the <term><link document="m15620">output</link></term> parts of the table, using the metaphor of the machine, and name the table an <term><link document="m15620">In-Out table</link></term>.</para>
+      <para id="id11655639">Next, give students an In-Out table, and ask them to guess the rule for the In-Out machine that the table is associated with. Again, write the rule as, “The <emphasis>Out</emphasis> is . . .”</para>
+    </section>
+    <section id="id-118963732723">
+      <title>Discussing and Debriefing the Activity</title>
+      <para id="id5444915">Ask students, in their groups, to share the rules they found for the In-Out tables in Questions 1 to 5. Also ask each group to prepare a transparency of one of the tables. Explain to the class that as they prepare to present, you would like them to focus more on their thinking process for identifying the rule than on the missing numbers. Also, presenters should write each rule as a complete sentence, beginning with “The <emphasis>Out</emphasis> is . . .”</para>
+      <para id="id10941756">During the presentations, encourage the audience to ask how the presenting group found each particular missing item or rule.</para>
+      <para id="id11872390"><emphasis>Questions 1 and 2: </emphasis>These two numeric tables represent what students will later classify as linear functions. Some students may have trouble finding the pattern in Question 2. Ask students who have found it to explain, if they can, the process they used to discover a rule to fit the information. </para>
+      <para id="id10956805"><emphasis>Question 3: </emphasis>The rule generally used for this table is that the <emphasis>Out</emphasis> is 1 less than the number of letters in the <emphasis>In. </emphasis>Based on this rule, you may want to bring out that there are many possible choices for the missing inputs, but only one choice for each missing output.</para>
+      <para id="id9640659"><emphasis>Question 4: </emphasis>This is probably the most challenging In-Out table in the activity, as it does not fit any standard idea of what constitutes mathematics, and because there is no simple algorithm for finding a relationship between the inputs and the outputs. As there is no explicit numeric information in the inputs, the first stage in thinking about this problem is to identify something in the pictures that can be associated with numbers. Students may have a variety of ideas about how to do this and will then need to find a rule that connects the numeric information in the pictures to the numbers as outputs.</para>
+      <para id="id7405817">If everyone is stuck on this problem, ask what changes from picture to picture and use this information to build a new table. For example, students might focus on the number of eyes, in which case they can see the table in Question 4 as equivalent to this table.</para>
+      <table id="id10958488" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>In</entry>
+              <entry>Out</entry>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry>3</entry>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>11</entry>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry>15</entry>
+            </row>
+            <row>
+              <entry>?</entry>
+              <entry>7</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id5171806"><emphasis>Question 5: </emphasis>One rule that works is that the <emphasis>Out </emphasis>is the second vowel of the <emphasis>In</emphasis>. But students may have other ideas. Some may have decided, based on the first three rows, that the <emphasis>Out</emphasis> is the first vowel of the <emphasis>In</emphasis>. If so, use this opportunity to remind students to check their rules against all the given information.</para>
+      <para id="id9422941">Another possibility that may arise is that the <emphasis>Out</emphasis> alternates between the fourth and third letter of the <emphasis>In.</emphasis> That is, I is the fourth letter of <emphasis>division</emphasis>, E is the third letter of <emphasis>ever</emphasis>, O is the fourth letter of <emphasis>opportunity</emphasis>, and so on. If this or a similar suggestion arises, bring out that in this pattern, the <emphasis>Out</emphasis> depends on the sequence in which the input values occur rather than only on the value of the <emphasis>In</emphasis>. If the order of pairs shown in the table is changed, this pattern will no longer exist.</para>
+      <para id="id7418902">Make sure to discuss the “can’t be done” entry for Question 5. Ask students what sense they made of it. They might respond with statements such as these.</para>
+      <list list-type="bulleted" id="id6117286">
+        <item>To get “can’t be done” as the <emphasis>Out,</emphasis> you need to put in a word with only one vowel.</item>
+        <item>You can only use words with at least two vowels for this table, so words with only one vowel can’t be done.</item>
+      </list>
+      <para id="id9357616">
+        <emphasis/>
+      </para>
+      <para id="id9699286">Before introducing the term <term><link document="m15620">function</link></term>, it is important to identify the distinction between functions and arbitrary tables of data. To illustrate, ask students what they think about a table like this one. </para>
+      <table id="id6116381" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>In</entry>
+              <entry>Out</entry>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>5</entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>8</entry>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>7</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id10961656">Bring out that there is something unusual here, as there are two different outputs for the same input. In terms of the metaphor of an In-Out machine, you might identify this as a “broken machine.”</para>
+      <para id="id3474275">With this as background, introduce function as the formal mathematical term that roughly corresponds to the idea of a “working” In-Out table. You might also use the phrase function machine as another term for an In-Out machine. The key idea is that a function must be consistent. That is, it must give the same output every time a particular input is used. </para>
+      <para id="id10961662">A related idea is that the output should not depend on where a given input is listed in a table. So a rule such as “The Out alternates between the fourth and third letter of the In” (see the earlier discussion of Question 5) does not describe a function. </para>
+      <para id="id11836390">Also include a case in which different inputs have the same output, such as Question 5. In other words, bring out that functions can’t produce different outputs for the same input, but they are allowed to produce the same outputs from different inputs.</para>
+      <para id="id4710452">Explain that the concept of a function is one of the major unifying ideas of mathematics and that students will be working with functions throughout their mathematics program. You might mention that rule, table, and function are often used almost interchangeably in informal mathematical work, even though the terms technically have different meanings. </para>
+      <para id="id5854432">Introduce the term <term><link document="m15620">domain</link></term> for the set of things that are allowable as inputs for a given In-Out table. Ask, <term>What things are allowable as inputs for each table in last night’s homework?</term> You can bring out that in Questions 1 and 2, the In must be a number, while in Questions 3 and 5, it must be a word (or perhaps any sequence of letters). In Question 4, the <emphasis>In</emphasis> should probably be a picture similar to those shown.</para>
+      <para id="id11588681">In their work with In-Out tables, students have used such rules as “The <emphasis>Out</emphasis> is twice the <emphasis>In</emphasis>” or “You get the <emphasis>Out</emphasis> by adding 5 to the <emphasis>In.</emphasis>” In the context of a specific example, you can bring out that a table will generally show only an incomplete picture of a function. It may have enough information to strongly suggest how the rule works, though students will already have seen that this is open to interpretation. But even if we settle on one specific rule, we can’t tell from the table exactly what the domain is. Again, we can make an assumption about this, but usually it is only a guess.</para>
+      <para id="id10771837">Most often, the domain is an infinite set, and thus the function consists of an infinite number of In-Out pairs. Students should recognize that the table can only display a few of these pairs. You might indicate that because of this, we say that the table represents the function, but that technically the function is more than what is shown in the table. </para>
+      <para id="id7745517">Introduce the term <term><link document="m15620">range</link></term> for the set of things that can be outputs for a given In-Out table. This set depends on what the domain is. For instance, for the doubling rule, if the domain is restricted to the whole numbers, then the range consists of the even whole numbers; but if the domain also includes positive fractions, then the range includes all whole numbers as well as all positive fractions. </para>
+      <para id="id10170678">
+        <emphasis/>
+      </para>
+      <para id="id11837489"><emphasis>Question 6: </emphasis>Have students exchange their In-Out tables and look for rules for the tables their fellow group members created. Each group can copy onto a sheet of poster paper two or three favorites from among the tables they created. They should make their tables big enough so that the entire class can read them when the poster is on the wall.</para>
+      <para id="id11212209">When groups have displayed their posters, they should attempt to find rules for the tables posted by other groups. </para>
+      <para id="id10431148">Ask the class whether there are specific examples they want to discuss or with which they had difficulty. You can have the group that created the problem or students from other groups offer hints on how to find a rule.</para>
+    </section>
+    <section id="id-446845170018">
+      <title>Key Questions </title>
+      <para id="id3160263">
+        <term>Did you see a method for finding the missing input?</term>
+      </para>
+      <para id="id3160272">
+        <term>What makes this problem difficult?</term>
+      </para>
+      <para id="id10657518">
+        <term>What do you think about this table?</term>
+      </para>
+      <para id="id10649903">
+        <emphasis/>
+      </para>
+    </section>
+    <section id="id-927199430354">
+      <title>Supplemental Activity</title>
+      <para id="id8082029"><emphasis>A Fractional Life </emphasis>(reinforcement) is part of <emphasis>The Greek Anthology</emphasis>, a group of problems collected by ancient Greek mathematicians.</para>
+    </section>
+  </content>
+</document>

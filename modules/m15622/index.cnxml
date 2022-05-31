@@ -1,0 +1,62 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Who's Who</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>39004f0c-13b5-44bf-a702-e2aec70878aa</md:uuid>
+</metadata>
+  <content>
+    <section id="id-485768952136">
+      <title>Intent</title>
+      <para id="id3776173">This activity is included early in the unit to engage students in the important processes of logical reasoning and proof.</para>
+    </section>
+    <section id="id-992033410832">
+      <title>Mathematics</title>
+      <para id="id3776187">This activity presents interlocking sets of conditions. Using these conditions, students must identify “who’s who” and are asked to provide a convincing argument—a proof—of their conclusion. Issues of proof arise repeatedly throughout the curriculum and in daily interactions. Most significantly, students are always expected to justify their solutions, to convince others, and to be convinced by others.</para>
+      <para id="id3776205">The reasoning students will use to analyze the stated conditions, to make conjectures about the solution, to test those conjectures to convince themselves that their solution meets the stated conditions, and then to determine whether their solution is unique—that is, to prove their solution—is at the heart of what it means to do mathematics.</para>
+    </section>
+    <section id="id-0295943700674">
+      <title>Progression</title>
+      <para id="id3776229">Students are asked to find a solution to this puzzle and to determine whether that solution is unique. The activity also gives students the chance to use two components of POW write-ups: “Process” and “Solution.”</para>
+    </section>
+    <section id="id-106678657243">
+      <title>Approximate Time </title>
+      <para id="id3776261">5 minutes for introduction </para>
+      <para id="id3776265">20 minutes for activity (at home or in class)</para>
+      <para id="id3776270">15 minutes for discussion</para>
+    </section>
+    <section id="id-7870464818">
+      <title>Classroom Organization</title>
+      <para id="id3776282">Individuals, followed by whole-class discussion</para>
+    </section>
+    <section id="id-378212611514">
+      <title>Doing the Activity</title>
+      <para id="id3776295">Review what is expected in the activity. Urge students to start taking notes as soon as they begin thinking about the problem and to use those notes in the “Process” portion of their write-ups. Emphasize that the “Solution” part of their write-ups must demonstrate how they are certain of their solution and especially how they know that it is the only solution. (Some students might be unfamiliar with the game of Hearts, but they don’t have to know anything about cards or this card game to do this activity.)</para>
+    </section>
+    <section id="id-732466112339">
+      <title>Discussing and Debriefing the Activity</title>
+      <para id="id3776325">Some students might approach this activity using logic. For example, because Felicia passes her cards to the ninth grader, she can’t be the person who passes to the eleventh grader.</para>
+      <para id="id3776336">Others might list all possible cases. With only three students, it is not too difficult to list all possible grade levels and all possible arrangements of the students around the table, and then see which one meets all the conditions.</para>
+      <para id="id3776344">Whatever approach they use, students have the opportunity to engage in clear, logical argument to explain why their solution is unique.</para>
+      <para id="id3776350">Give students a few minutes in their groups to compare how they solved Question 1<emphasis>.</emphasis> Suggest that they focus not only on the answer, but also on how they worked on the problem—that is, on the “Process” component of the write-up.</para>
+      <para id="id3776373">As you circulate and listen in on the discussions, identify students who approached various parts of the activity in interesting ways, and ask them to present those parts to the class. Try to get several methods presented, both to describe the approaches themselves and to emphasize that there are many possibilities.</para>
+      <para id="id3776383">When students are convinced that there is a single solution, raise the issue of whether there are other answers, and ask students to explain how they can be sure there is only one<term>. Is this one of those problems that has more than one answer?</term>As with the discussion of solution methods, encourage different approaches.</para>
+      <para id="id3776408">After several students have offered explanations of why the answer is unique, ask whether students are completely convinced by these arguments. <term>How convinced are you?</term> Use this opportunity to review the word <term><link document="m15620">proof</link></term>. Clarify that in this problem, a complete proof involves two aspects:</para>
+      <list list-type="bulleted" id="id3776450">
+        <item>Showing that the particular seating arrangement satisfies the conditions in the problem; that is, that a solution <emphasis>exists</emphasis></item>
+        <item>Showing that no other seating arrangement fits those conditions; that is, that the solution is <emphasis>unique</emphasis></item>
+      </list>
+    </section>
+    <section id="id-336713399086">
+      <title>Key Questions </title>
+      <para id="id3776492">
+        <term>Is this one of those problems that has more than one answer? </term>
+      </para>
+      <para id="id3776500">
+        <term>How convinced are you?</term>
+      </para>
+    </section>
+    <section id="id-0165046204585">
+      <title>Supplemental Activities</title>
+      <para id="id3776516"><emphasis> The Number Magician </emphasis>(reinforcement) asks students to determine the original number that produces one particular answer and to analyze the method used to determine the original number so quickly. </para>
+      <para id="id3776535"><emphasis> Whose Dog Is That? </emphasis>(extension) is a logic puzzle much like <emphasis>Who’s Who?</emphasis> Students are given several interlocking conditions and must use logical reasoning to determine a set of conclusions.</para>
+    </section>
+  </content>
+</document>

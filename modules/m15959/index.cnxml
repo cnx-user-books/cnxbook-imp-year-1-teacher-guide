@@ -1,0 +1,57 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Calculator Exploration</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>b01d409f-cae8-4350-81d1-95cd1e5d4f80</md:uuid>
+</metadata>
+  <content>
+    <section id="id-130060719087">
+      <title>Intent</title>
+      <para id="id5287156">Graphing calculators will be part of students’ tools for doing mathematics throughout the IMP program. This activity will give some students their first chance to learn how these calculators work. It also offers students an opportunity to make a short presentation of something they have discovered.</para>
+    </section>
+    <section id="id-207806996895">
+      <title>Mathematics</title>
+      <para id="id5287179">Given the versatility and power of the graphing calculator, and the wide variety of prior experiences students are likely to bring to this open-ended activity, students’ explorations will probably range widely. However, there are some important mathematical issues students will encounter.</para>
+      <list list-type="bulleted" id="id5287193">
+        <item>How to handle order of operations on a calculator</item>
+        <item>Calculators will evaluate such expressions as 17 – 6 ÷ 3 + 4 x 9^2, without the need for parentheses, by doing the exponent first, then multiplication and division, and finally addition and subtraction.</item>
+        <item>How to use the built-in mathematical functions </item>
+        <item>To find the square root of 3 you must access the square root function before the number 3, but to find 5! you must access the factorial function after the number 5.</item>
+        <item>Sin(30) will not be 0.5 unless the mode is set to degrees.</item>
+        <item>The graphing capabilities of the calculator.</item>
+      </list>
+    </section>
+    <section id="id-765826632156">
+      <title>Progression</title>
+      <para id="id5287249">Students will explore their calculators in pairs and then share discoveries with the class.</para>
+    </section>
+    <section id="id-917255443051">
+      <title>Approximate Time </title>
+      <para id="id5287263">20 minutes for activity</para>
+      <para id="id5287267">20 minutes for discussion</para>
+    </section>
+    <section id="id-24722504997">
+      <title>Classroom Organization</title>
+      <para id="id5287279">Pairs, followed by whole-class discussion</para>
+    </section>
+    <section id="id-111286627352">
+      <title>Materials </title>
+      <para id="id5287291">Calculator guidebooks or manuals</para>
+      <para id="id5287295">TI Calculator Basics (optional) [download PDF]</para>
+      <para id="id5287307">Overhead calculator</para>
+    </section>
+    <section id="id-927930813426">
+      <title>Doing the Activity </title>
+      <para id="id5287320">Tell students that they will be using a graphing calculator or handheld very often in their math class—so often that it will become a tool with which they think and explore, rather than simply calculate.</para>
+      <para id="id5287331">Have students read the activity on their own, and then highlight that they are to work with a partner to learn whatever they can about the calculator and, later, to demonstrate something they learned.</para>
+      <para id="id5287338">Give students time to work on this open-ended activity on their own, free from intervention, for a while. Through this experience, they may come to understand that they can learn about calculators, by trial and error, which will help them feel confident with these tools in the future. </para>
+      <para id="id5287348">Students should focus on simply learning how their calculator works. If you notice a pair fretting about not learning something in particular, encourage them with a reminder that the goal is to explore the calculator until they discover something new. You might also suggest that they explore a button that looks interesting to them. Or ask them to think of something they frequently do in math class and see if they can figure out how to do it on this calculator.</para>
+      <para id="id5287363">Encourage students to be thoughtful in their preparations to present. Assure them that their presentations can be simple, such as, “If you press this key, such-and-such happens.” They don’t necessarily have to learn how to accomplish something useful to make the information worth reporting.</para>
+      <para id="id5287377">Students may want to use manuals to learn how to do a specific activity or to find out what kinds of things the calculator can do. As you circulate, suggest to individual students that they prepare presentations on particular topics.</para>
+    </section>
+    <section id="id-378814579877">
+      <title>Discussing and Debriefing the Activity</title>
+      <para id="id5287393">Give pairs a short time to organize what they learned and to prepare their presentations. Pairs should probably be ready with several ideas to present, so they will have something available if another group presents one of their ideas.</para>
+      <para id="id5287401">Have pairs make their presentations in an appropriate sequence. For instance, schedule presentations that focus on more elementary aspects of calculator use before those on more advanced or obscure topics.</para>
+      <para id="id5287412">Students should present using an overhead calculator or appropriate software.</para>
+    </section>
+  </content>
+</document>
