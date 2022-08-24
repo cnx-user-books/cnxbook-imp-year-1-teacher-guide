@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Interactive Mathematics Program">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col10537</md:content-id>
     <md:title>IMP Year 1 Teacher Guide</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License</md:license>
     <md:uuid>a0b046ae-5394-45b2-8d6d-f22f63ba6c79</md:uuid>
-<md:slug>imp-year-1-teacher-guide</md:slug>
-</metadata>
+    <md:slug>imp-year-1-teacher-guide</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Year 1 Overview</md:title>
